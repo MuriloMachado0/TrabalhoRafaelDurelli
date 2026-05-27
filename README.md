@@ -4,10 +4,10 @@ Trabalho prático desenvolvido para a disciplina de Introdução à Computação
 
 Integrantes da Dupla
 
-Nome: Fauly Oliveira Martins da Silveira
+Nome: Fauly Oliveira Martins da Silveira.
 Matrícula: 202610127
 
-Nome: Murilo Machado Silveira
+Nome: Murilo Machado Silveira.
 Matrícula: 202610118
 
 --Linguagem Escolhida e Justificativa
