@@ -3,8 +3,12 @@ Conversor de Bases Numéricas - Trabalho Prático
 Trabalho prático desenvolvido para a disciplina de Introdução à Computação, focado na construção de um programa completo de conversão entre as bases numéricas **Binária (2), Octal (8), Decimal (10) e Hexadecimal (16)**. O sistema contempla suporte a números inteiros e fracionários, exibição detalhada dos cálculos (modo passo a passo), execução em lote e um modo quiz avaliativo.
 
 Integrantes da Dupla
-Nome: Fauly Oliveira Martins da Silveira   Matrícula: 202610127
-Nome: Murilo Machado Silveira              Matrícula: 202610118
+
+Nome: Fauly Oliveira Martins da Silveira
+Matrícula: 202610127
+
+Nome: Murilo Machado Silveira
+Matrícula: 202610118
 
 --Linguagem Escolhida e Justificativa
 * O projeto foi desenvolvido inteiramente na linguagem C++, utilizando de forma estrita e exclusiva a sua biblioteca padrão. O sistema não possui qualquer dependência externa.
